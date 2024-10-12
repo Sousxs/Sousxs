@@ -39,5 +39,5 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to a Games an
 
 ---
 
-<a href="https://github.com/Sousxs" alt="https://github.com/Sousxs"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Sousxs&color=000000">
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=Sousxs&color=000000">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=PUC-GO&color=000000"></a>
