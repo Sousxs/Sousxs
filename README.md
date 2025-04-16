@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Java and Computer Science .
+Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer Science .
 
 <br />
 
