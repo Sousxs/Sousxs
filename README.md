@@ -17,6 +17,7 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
 ## Languages and Tools:
 
 <p>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" height="50" style="vertical-align:down; margin:5px" alt="C">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="50" style="vertical-align:down; margin:5px" alt="C++">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" height="50" style="vertical-align:down; margin:5px" alt="Java">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" height="50" style="vertical-align:down; margin:5px" alt="Spring">
