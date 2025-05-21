@@ -30,7 +30,6 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
 
 <br />
 
-![Status](profile-night-green.svg)
 
 
 
