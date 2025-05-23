@@ -16,8 +16,6 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
 
 - <a href='https://github.com/Sousxs/GAMES/tree/main/Snake' target='_blank'>Snake Game with Processing</a> - 2024-10-11
   
-- <a> Test with Java Selenium </a> - 2025-05-05
-
 
 <br />
 
