@@ -12,6 +12,11 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
   
 - <a href='https://github.com/Sousxs/POO' target='_blank'>Online Community System with Spring Boot </a> - 2024-12-09
 
+- <a> Test with Java Selenium </a> - 2025-05-05
+
+- <a> WebSite with Node.js and MongoDB </a> - 2025-04-23
+
+
 <br />
 
 ## Languages and Tools:
