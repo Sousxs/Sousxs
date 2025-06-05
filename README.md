@@ -8,7 +8,7 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
 
 ## Recent Projects:
 
-- <a> Test with Java Selenium </a> - 2025-05-05
+- <a href='https://github.com/Sousxs/Java-selenium' target='_blank'>Test with Java Selenium </a> - 2025-05-05
 
 - <a> WebSite with Node.js and MongoDB </a> - 2025-04-23
 
