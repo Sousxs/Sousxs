@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Hi, I'm Pedro Henrique, a backend developer from Brazil 🇧🇷.<br>
+  <b>Hi, I'm Pedro Henrique, a backend developer<br>
   Dedicated to Computer Science and always eager to learn and share knowledge.</b>
 </p>
 
