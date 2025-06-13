@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Generate Snake SVG
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: Sousxs
