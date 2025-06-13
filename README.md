@@ -14,7 +14,7 @@ Hi, I'm Pedro Henrique, a backend developer from Brasil. Dedicated to Computer S
 
 - <a href='https://github.com/Sousxs/POO' target='_blank'>Online Community System with Spring Boot </a> - 2024-12-09
 
-- <a href='https://github.com/Sousxs/GAMES/tree/main/Snake' target='_blank'>Snake Game with Processing</a> - 2024-10-11
+- <a href='https://github.com/Sousxs/Processing/Snake' target='_blank'>Snake Game with Processing</a> - 2024-10-11
   
 
 <br />
