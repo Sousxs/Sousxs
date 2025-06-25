@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Pedro</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a target="_blank">Pedro</a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Backend+Developer;Passionate+about+Computer+Science;Lifelong+Learner" alt="Typing SVG" />
