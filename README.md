@@ -11,7 +11,6 @@
 
 ## Recent Projects
 
-- [Test with Java Selenium](https://github.com/Sousxs/Java-selenium) <sub><sup>2025-05-05</sup></sub>
 - [Online Community System with Spring Boot](https://github.com/Sousxs/POO) <sub><sup>2024-12-09</sup></sub>
 - [Snake Game with Processing](https://github.com/Sousxs/Processing/tree/main/Snake) <sub><sup>2024-10-11</sup></sub>
 
