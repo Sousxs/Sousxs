@@ -46,11 +46,11 @@
 
 ## Focus Areas
 
-```text
-Backend Development   ██████████████████████░░░   90%
-Mobile Development    ████████████░░░░░░░░░░░░░   50%
-Machine Learning      ██████████░░░░░░░░░░░░░░░   40%
-Algorithms & DS       ████████████████░░░░░░░░░   70%
+```
+Backend Development   ██████████████████████      90%
+Mobile Development    ████████████                50%
+Machine Learning      ██████████                  40%
+Algorithms & DS       ████████████████            70%
 ```
 
 ## Activity Graph
