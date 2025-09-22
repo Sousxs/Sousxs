@@ -29,6 +29,14 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sousxs&hide=html,css,shell&langs_count=8&theme=github_dark&card_width=445" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sousxs&show_icons=true&hide_title=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <sub>Let's connect: 
     <a href="https://www.linkedin.com/in/sousxs/" target="_blank">LinkedIn</a> • 
     <a href="mailto:impessoal.pedro@gmail.com">E-mail</a>
