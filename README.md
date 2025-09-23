@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -22,7 +21,6 @@
 ## Current Projects
 
 - **[Machine Learning Journey](https://github.com/Sousxs/Machine-Learning)** - Learning and implementing ML algorithms <sub><sup>2025-09-08</sup></sub>
-- **[FVS](https://github.com/Sousxs/FVS)** - Kotlin mobile application <sub><sup>2025-09-03</sup></sub>
 - **[Algorithms & Data Structures](https://github.com/Sousxs/notes)** - Implementation studies in C <sub><sup>Updated recently</sup></sub>
 - **[Systers](https://github.com/Sousxs/POO)** - Online Community System with Spring Boot <sub><sup>2024-12-09</sup></sub>
 - **[Snake Game](https://github.com/Sousxs/Processing/tree/main/Snake)** - with Processing <sub><sup>2024-10-11</sup></sub>
