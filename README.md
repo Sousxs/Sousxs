@@ -2,23 +2,24 @@
 
 Backend developer in Goiânia, Brazil. I work with C#/.NET and Python and build RAG assistants and internal systems on Microsoft 365 and Azure.
 
-[pedrosousxs@gmail.com](mailto:pedrosousxs@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sousxs)
+<a href="mailto:pedrosousxs@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="18" height="18" alt=""> pedrosousxs@gmail.com</a> · <a href="https://www.linkedin.com/in/sousxs"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="18" height="18" alt=""> LinkedIn</a>
 
 ### Public projects
 
-<p><strong><a href="https://github.com/Sousxs/study">study</a></strong><br>Data structures and algorithms in C and C++ from my CS courses.<br><sub>I was a teaching assistant for Algorithms and Data Structures I.</sub></p>
-
-<p><strong><a href="https://github.com/Sousxs/Systers-Community">Systers-Community</a></strong><br>Group project in Java and Spring Boot (2024).<br><sub>I built the posts and comments CRUD and the Thymeleaf front end.</sub></p>
+| Repository | About |
+| :--- | :--- |
+| **[study](https://github.com/Sousxs/study)** | Data structures and algorithms in C and C++ from my CS courses.<br>I was a teaching assistant for Algorithms and Data Structures I. |
+| **[Systers-Community](https://github.com/Sousxs/Systers-Community)** | Group project in Java and Spring Boot (2024).<br>I built the posts and comments CRUD and the Thymeleaf front end. |
 
 ### Stack
 
-**Backend** · C#, ASP.NET Core, EF Core, Java, Spring Boot, Python
+<p><strong>Backend</strong> &nbsp; <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py&theme=dark" height="24" alt="C#, .NET, Java, Spring, Python"><br>C#, ASP.NET Core, EF Core, Java, Spring Boot, Python</p>
 
-**AI & Data** · LangGraph, RAG, PostgreSQL with pgvector, SQL Server, Power BI
+<p><strong>AI & Data</strong> &nbsp; <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="24" alt="PostgreSQL"><br>LangGraph, RAG, PostgreSQL with pgvector, SQL Server, Power BI</p>
 
-**Front end** · TypeScript, React
+<p><strong>Front end</strong> &nbsp; <img src="https://skillicons.dev/icons?i=ts,react&theme=dark" height="24" alt="TypeScript, React"><br>TypeScript, React</p>
 
-**Cloud & tooling** · Microsoft Graph, Azure AD, PowerShell, Docker
+<p><strong>Cloud & tooling</strong> &nbsp; <img src="https://skillicons.dev/icons?i=azure,powershell,docker&theme=dark" height="24" alt="Azure, PowerShell, Docker"><br>Microsoft Graph, Azure AD, PowerShell, Docker</p>
 
 ### Education
 
