@@ -6,13 +6,9 @@ Backend developer in Goiânia, Brazil. I work with C#/.NET and Python and build 
 
 ### Public projects
 
-**[study](https://github.com/Sousxs/study)**<br>
-Data structures and algorithms in C and C++ from my CS courses.<br>
-<sub>I was a teaching assistant for Algorithms and Data Structures I.</sub>
+<p><strong><a href="https://github.com/Sousxs/study">study</a></strong><br>Data structures and algorithms in C and C++ from my CS courses.<br><sub>I was a teaching assistant for Algorithms and Data Structures I.</sub></p>
 
-**[Systers-Community](https://github.com/Sousxs/Systers-Community)**<br>
-Group project in Java and Spring Boot (2024).<br>
-<sub>I built the posts and comments CRUD and the Thymeleaf front end.</sub>
+<p><strong><a href="https://github.com/Sousxs/Systers-Community">Systers-Community</a></strong><br>Group project in Java and Spring Boot (2024).<br><sub>I built the posts and comments CRUD and the Thymeleaf front end.</sub></p>
 
 ### Stack
 
