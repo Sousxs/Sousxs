@@ -21,12 +21,16 @@ I joined FGR Incorporações, a real estate developer in Brazil with about 600 e
 - An IT asset system in Java and Spring Boot that tracks about 1,000 assets and replaced spreadsheets
 - Microsoft 365 automations with Microsoft Graph and PowerShell, and Power BI dashboards
 
+---
+
 ### Public projects
 
 | | Repository | About |
 |---|---|---|
 | <img src="https://skillicons.dev/icons?i=c,cpp" height="28" alt="C, C++"> | [study](https://github.com/Sousxs/study) | Data structures and algorithms in C and C++ from my CS courses. I was a teaching assistant for Algorithms and Data Structures I. |
 | <img src="https://skillicons.dev/icons?i=java,spring" height="28" alt="Java, Spring"> | [Systers-Community](https://github.com/Sousxs/Systers-Community) | Group project in Java and Spring Boot (2024). I built the posts and comments CRUD and the Thymeleaf front end. |
+
+---
 
 ### Stack
 
@@ -39,11 +43,13 @@ I joined FGR Incorporações, a real estate developer in Brazil with about 600 e
 | Microsoft 365 and Azure | <img src="https://skillicons.dev/icons?i=azure,powershell" height="40" alt="Azure, PowerShell"> | Microsoft Graph, Azure AD, PowerShell |
 | Infra | <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker"> | Docker |
 
+---
+
 ### Education
 
 BSc in Computer Science at PUC Goiás, in progress.
 
-<br>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sousxs/Sousxs/output/github-contribution-grid-snake-dark.svg">
