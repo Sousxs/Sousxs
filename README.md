@@ -16,6 +16,7 @@ The code belongs to the company and stays private.
 ### Public projects
 
 - **[Template](https://github.com/Sousxs/Template)**: a Spec-Driven Development pipeline for coding agents (GitHub Spec Kit + Claude Code) with three review gates, a token-free traceability check and an architecture handbook for .NET 8 + React 18. MIT licensed.
+- **[openbot-equipes-agentes](https://github.com/Sousxs/openbot-equipes-agentes)**: how I run 36 coding agents in 4 parallel teams on OpenBot (a 5-step intake pipeline, cost tiers by complexity, shared rules), plus the 10 problems I hit along the way, each with cause and fix.
 
 University projects:
 
